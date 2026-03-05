@@ -33,9 +33,33 @@ I enjoy learning new technologies and solving real-world problems.
 
 ---
 
+---
+
 ## 🌟 GitHub Stats
-![Sokpanha’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=JACKAS5&show_icons=true&theme=radical&hide=issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JACKAS5&layout=compact&theme=radical)
+
+<p align="center">
+
+<!-- Main GitHub Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=JACKAS5&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
+  height="165"
+/>
+
+<!-- Top Languages -->
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JACKAS5&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" 
+  height="165"
+/>
+
+</p>
+
+<!-- Optional: GitHub Streak -->
+<p align="center">
+<img 
+  src="https://streak-stats.demolab.com?user=JACKAS5&theme=radical&hide_border=true" 
+  height="120"
+/>
+</p>
 
 ---
 
