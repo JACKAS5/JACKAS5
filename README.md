@@ -42,23 +42,23 @@ Passionate about learning, problem-solving, and writing maintainable code.
 
 ## 🌟 GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
   <!-- Main GitHub Stats -->
   <img
-    src="https://github‑readme‑stats‑git‑masterrstaa‑rickstaa.vercel.app/api?username=JACKAS5&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=JACKAS5&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
     height="180"
   />
 
-  <!-- Top Languages (stable fork) -->
+  <!-- Most Used Language Badge (stable alternative) -->
   <img
-    src="https://github‑readme‑stats‑git‑masterrstaa‑rickstaa.vercel.app/api/top_langs/?username=JACKAS5&layout=compact&theme=radical&hide_border=true"
-    height="180"
+    src="https://img.shields.io/github/languages/top/JACKAS5?color=007ACC&label=Top%20Language&logo=github&style=for-the-badge"
+    height="50"
   />
 
   <!-- GitHub Streak -->
   <img
-    src="https://streak‑stats.demolab.com?user=JACKAS5&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=JACKAS5&theme=radical&hide_border=true"
     height="120"
   />
 
