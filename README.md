@@ -42,7 +42,7 @@ Passionate about learning, problem-solving, and writing maintainable code.
 
 ## 🌟 GitHub Stats
 
-<p align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- Main GitHub Stats -->
   <img
@@ -50,11 +50,11 @@ Passionate about learning, problem-solving, and writing maintainable code.
     height="180"
   />
 
-  <!-- Most Used Language Badge (stable alternative) -->
-  <img
-    src="https://img.shields.io/github/languages/top/JACKAS5?color=007ACC&label=Top%20Language&logo=github&style=for-the-badge"
-    height="50"
-  />
+  <!-- Top Languages (manual stable alternative) -->
+  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <span style="font-weight: bold; font-size: 14px; margin-bottom: 5px;">Top Languages</span>
+    <span style="font-size: 18px;">💻 JavaScript | 🟦 TypeScript | ☕ Java</span>
+  </div>
 
   <!-- GitHub Streak -->
   <img
