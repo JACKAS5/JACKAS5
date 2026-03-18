@@ -50,7 +50,7 @@ Passionate about learning, problem-solving, and writing maintainable code.
   />
   
   <!-- Top Languages (fixed) -->
-  <img 
+  <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JACKAS5&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&card_width=500" 
     height="200"
   />
